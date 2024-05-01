@@ -2,7 +2,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Phython</b> 
+- <b>Python</b> 
 
 <h2>Description</h2>
 
